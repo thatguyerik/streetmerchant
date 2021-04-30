@@ -1,0 +1,8 @@
+version: "2.1"
+
+services:
+  cli:
+    image: ${COMPOSE_PROJECT_NAME_SAFE}/cli
+    build: services/cli
+    labels:
+      - io.docksal.virtual-port=80

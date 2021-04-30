@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#: exec_target = cli
+
+cd ${PROJECT_ROOT}
+npm install
+
+cd ${PROJECT_ROOT}/node_modules/puppeteer
+npm install

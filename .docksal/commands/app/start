@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#: exec_target = cli
+
+cd ${PROJECT_ROOT}
+npm run start
