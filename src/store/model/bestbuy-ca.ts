@@ -223,6 +223,12 @@ export const BestBuyCa: Store = {
       url:
         'https://www.bestbuy.ca/en-ca/product/xbox-series-s-512gb-console-new-model-online-only/14964950',
     },
+    {
+      brand: 'midway',
+      model: 'mortal kombat',
+      series: 'arcade',
+      url: 'https://www.bestbuy.ca/en-ca/product/arcade1up-midway-legacy-edition-arcade-machine-with-riser/15317438',
+    },
   ],
   name: 'bestbuy-ca',
   waitUntil: 'domcontentloaded',

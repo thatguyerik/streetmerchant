@@ -1,6 +1,7 @@
 .idea/
 .vs/
 .vscode/
+.history/
 build/
 coverage/
 node_modules/

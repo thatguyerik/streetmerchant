@@ -488,6 +488,13 @@ export const BestBuy: Store = {
       series: '3060',
       url: 'https://api.bestbuy.com/click/-/6454318/pdp',
     },
+    {
+      brand: 'midway',
+      cartUrl: 'https://api.bestbuy.com/click/-/6454302/cart',
+      model: 'mortal kombat',
+      series: 'arcade',
+      url: 'https://api.bestbuy.com/click/-/6454302/pdp',
+    },
   ],
   name: 'bestbuy',
 };

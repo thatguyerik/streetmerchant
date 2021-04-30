@@ -156,6 +156,13 @@ export const Gamestop: Store = {
       url:
         'https://www.gamestop.com/video-games/xbox-series-x/consoles/products/xbox-series-s-digital-edition/B224746K.html',
     },
+    {
+      brand: 'midway',
+      model: 'mortal kombat',
+      series: 'arcade',
+      url:
+        'https://www.gamestop.com/consoles-hardware/arcades/full-size-arcades/products/midway-game-cabinet-with-riser-legacy-edition/11114219.html?condition=New',
+    },
   ],
   name: 'gamestop',
   successStatusCodes: [[0, 399], 404],
